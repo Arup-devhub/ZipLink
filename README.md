@@ -13,11 +13,11 @@ ZipLink is a secure, offline-first file sharing app built with Flutter for fast,
 *    **No File Size Limit** – Share large files easily.
 *    **End-to-End Encryption** – Secure and private file transfer.
 *    **Signal Strength Indicator** – Shows connection quality.
-*    **Cross-Platform Support** – Works on Android, iOS, Windows, macOS, Linux.
+*   **Cross-Platform Support** – Works on Android, iOS, Windows, macOS, Linux.
 
 -----
 
-## 🛠️ Technologies Used
+##  Technologies Used --
 
   * **Flutter**: The primary framework for building the cross-platform application.
   * **GoRouter**: For declarative and flexible navigation within the app.
