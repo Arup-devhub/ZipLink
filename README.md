@@ -30,13 +30,13 @@ ZipLink is a secure, offline-first file sharing app built with Flutter for fast,
 
 -----
 
-## 📸 Screenshots
+## Screenshots
 
 *(Add screenshots of the app here, showing the Home Screen, Send/Receive screens, and History page.)*
 
 -----
 
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 1.  **Clone the repository:**
 
