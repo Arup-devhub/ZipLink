@@ -1,6 +1,6 @@
 # ZipLink
 ZipLink is a secure, offline-first file sharing app built with Flutter for fast, seamless peer-to-peer transfers. Share photos, videos, documents, and contacts easily across devices without internet. It combines powerful performance with a beautiful, user-friendly interface. 🚀
-# ZipLink 🚀
+# ZipLink 
 
 ##  ZipLink is a modern, fast, and secure cross-platform file-sharing application built with Flutter. It allows you to share files instantly with other devices on the same local network, without any need for an internet connection or cloud services.
 
