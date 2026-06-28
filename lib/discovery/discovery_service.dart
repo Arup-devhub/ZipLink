@@ -5,6 +5,7 @@ import 'models/peer_device.dart';
 
 class DiscoveryService {
   final ConnectionManager _connectionManager;
+  
   final _peersController = StreamController<List<PeerDevice>>.broadcast();
 
   bool _isDiscovering = false;
@@ -12,6 +13,7 @@ class DiscoveryService {
 
   DiscoveryService(this._connectionManager) {
     _connectionManager.initialize();
+    
     _connectionManager.discoveredPeers.listen((peers) {
       _peersController.add(peers);
     });
