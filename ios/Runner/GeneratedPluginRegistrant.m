@@ -10,6 +10,7 @@
 #import <device_info_plus/FPPDeviceInfoPlusPlugin.h>
 #else
 @import device_info_plus;
+
 #endif
 
 #if __has_include(<file_picker/FilePickerPlugin.h>)
